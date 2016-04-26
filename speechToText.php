@@ -52,7 +52,7 @@ function recognize($file, $key) {
 
 //print_r($argv);
 $filename = 'file_4.oga';
-$key = '12345678123456781234567812345678';
+$key = '8670a4aa-3572-11e3-98d2-266473e8d061';
 
 recognize($filename, $key);
 print("done\n");
